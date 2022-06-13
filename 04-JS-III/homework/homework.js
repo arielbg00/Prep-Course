@@ -258,7 +258,6 @@ function continueStatement(numero) {
     }
   }
   return newarray;
-  
 }
 
 
