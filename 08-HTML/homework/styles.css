@@ -1,0 +1,17 @@
+h1 {
+    color : teal;
+}
+img {
+    width : 400px;
+}
+#thirdDiv {
+    height : 600px;
+    width : 500px;
+    background : darkgreen;
+    padding : 50px;
+    border : 5px dashed mediumturquoise;
+}
+#spanId {
+    font-size : 18px;
+    margin : 50px;
+}
