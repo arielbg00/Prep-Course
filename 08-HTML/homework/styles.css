@@ -7,9 +7,9 @@ img {
 #thirdDiv {
     height : 600px;
     width : 500px;
-    background : darkgreen;
+    background-color : darkgreen;
     padding : 50px;
-    border : 5px dashed mediumturquoise;
+    border : 12px dashed mediumturquoise;
 }
 #spanId {
     font-size : 18px;
